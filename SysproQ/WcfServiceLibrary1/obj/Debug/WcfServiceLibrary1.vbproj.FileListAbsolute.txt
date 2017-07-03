@@ -45,3 +45,27 @@ D:\SOFTWARE2\SysproQ\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.vbproj.Gene
 D:\SOFTWARE2\SysproQ\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
 D:\SOFTWARE2\SysproQ\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.xml
 D:\SOFTWARE2\SysproQ\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.xml
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Debug\EntityFramework.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Debug\SysproQ.BLL.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Debug\SysproQ.Entity.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Debug\SYSPROWCFServicesClientLibrary40.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Debug\SysproQ.DAL.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Debug\SysproQ.BLL.pdb
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Debug\SysproQ.BLL.xml
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Debug\SysproQ.Entity.pdb
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Debug\SysproQ.Entity.xml
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Debug\EntityFramework.xml
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Debug\SysproQ.DAL.pdb
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Debug\SysproQ.DAL.xml
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.vbprojResolveAssemblyReference.cache
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.Resources.resources
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.vbproj.GenerateResource.Cache
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.xml
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

@@ -22,3 +22,27 @@ D:\SOFTWARE2\SysproQ\WcfServiceLibrary1\obj\Release\WcfServiceLibrary1.dll
 D:\SOFTWARE2\SysproQ\WcfServiceLibrary1\obj\Release\WcfServiceLibrary1.xml
 D:\SOFTWARE2\SysproQ\WcfServiceLibrary1\obj\Release\WcfServiceLibrary1.pdb
 D:\SOFTWARE2\SysproQ\WcfServiceLibrary1\bin\Release\SYSPROWCFServicesClientLibrary40.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Release\WcfServiceLibrary1.dll.config
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Release\WcfServiceLibrary1.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Release\WcfServiceLibrary1.pdb
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Release\WcfServiceLibrary1.xml
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Release\EntityFramework.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Release\EntityFramework.SqlServer.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Release\SysproQ.BLL.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Release\SysproQ.Entity.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Release\SYSPROWCFServicesClientLibrary40.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Release\SysproQ.DAL.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Release\SysproQ.BLL.pdb
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Release\SysproQ.BLL.xml
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Release\SysproQ.Entity.pdb
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Release\SysproQ.Entity.xml
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Release\EntityFramework.xml
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Release\EntityFramework.SqlServer.xml
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Release\SysproQ.DAL.pdb
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\bin\Release\SysproQ.DAL.xml
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\obj\Release\WcfServiceLibrary1.vbprojResolveAssemblyReference.cache
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\obj\Release\WcfServiceLibrary1.Resources.resources
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\obj\Release\WcfServiceLibrary1.vbproj.GenerateResource.Cache
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\obj\Release\WcfServiceLibrary1.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\obj\Release\WcfServiceLibrary1.xml
+D:\GYXITEX DEV\SmBiz\SysproQ\WcfServiceLibrary1\obj\Release\WcfServiceLibrary1.pdb

@@ -41,3 +41,24 @@ D:\SOFTWARE2\SysproQ\SysproQ.BLL\obj\Release\SysproQ.BLL.dll
 D:\SOFTWARE2\SysproQ\SysproQ.BLL\obj\Release\SysproQ.BLL.xml
 D:\SOFTWARE2\SysproQ\SysproQ.BLL\obj\Release\SysproQ.BLL.pdb
 D:\SOFTWARE2\SysproQ\SysproQ.BLL\bin\Release\SYSPROWCFServicesClientLibrary40.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\SysproQ.BLL\bin\Release\SysproQ.BLL.dll.config
+D:\GYXITEX DEV\SmBiz\SysproQ\SysproQ.BLL\bin\Release\SysproQ.BLL.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\SysproQ.BLL\bin\Release\SysproQ.BLL.pdb
+D:\GYXITEX DEV\SmBiz\SysproQ\SysproQ.BLL\bin\Release\SysproQ.BLL.xml
+D:\GYXITEX DEV\SmBiz\SysproQ\SysproQ.BLL\bin\Release\EntityFramework.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\SysproQ.BLL\bin\Release\EntityFramework.SqlServer.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\SysproQ.BLL\bin\Release\SysproQ.DAL.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\SysproQ.BLL\bin\Release\SysproQ.Entity.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\SysproQ.BLL\bin\Release\SYSPROWCFServicesClientLibrary40.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\SysproQ.BLL\bin\Release\SysproQ.DAL.pdb
+D:\GYXITEX DEV\SmBiz\SysproQ\SysproQ.BLL\bin\Release\SysproQ.DAL.xml
+D:\GYXITEX DEV\SmBiz\SysproQ\SysproQ.BLL\bin\Release\SysproQ.Entity.pdb
+D:\GYXITEX DEV\SmBiz\SysproQ\SysproQ.BLL\bin\Release\SysproQ.Entity.xml
+D:\GYXITEX DEV\SmBiz\SysproQ\SysproQ.BLL\bin\Release\EntityFramework.xml
+D:\GYXITEX DEV\SmBiz\SysproQ\SysproQ.BLL\bin\Release\EntityFramework.SqlServer.xml
+D:\GYXITEX DEV\SmBiz\SysproQ\SysproQ.BLL\obj\Release\SysproQ.BLL.vbprojResolveAssemblyReference.cache
+D:\GYXITEX DEV\SmBiz\SysproQ\SysproQ.BLL\obj\Release\SysproQ.BLL.Resources.resources
+D:\GYXITEX DEV\SmBiz\SysproQ\SysproQ.BLL\obj\Release\SysproQ.BLL.vbproj.GenerateResource.Cache
+D:\GYXITEX DEV\SmBiz\SysproQ\SysproQ.BLL\obj\Release\SysproQ.BLL.dll
+D:\GYXITEX DEV\SmBiz\SysproQ\SysproQ.BLL\obj\Release\SysproQ.BLL.xml
+D:\GYXITEX DEV\SmBiz\SysproQ\SysproQ.BLL\obj\Release\SysproQ.BLL.pdb

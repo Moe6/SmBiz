@@ -8,8 +8,8 @@ Public Class Query
     End Sub
 
     Public Function FillSalesOrderDetails(so As String) As List(Of SorDetail)
-        Return _db.SorDetails.Where(Function(c) c.SalesOrder.Contains(so)).ToList
-        'Return _db.SorDetails.Where(Function(c) c.SalesOrder = so).ToList
+        'Return _db.SorDetails.Where(Function(c) c.SalesOrder.Contains(so)).ToList
+        Return _db.SorDetails.Where(Function(c) c.SalesOrder = so).ToList
     End Function
 
 #Region "IDisposable Support"
